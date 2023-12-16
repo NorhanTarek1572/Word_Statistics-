@@ -1,6 +1,8 @@
 # Documentation 
 
-[Word statistics.pdf](https://github.com/NorhanTarek1572/Word_Statistics-/files/13693894/Word.statistics.pdf)
+[Word statistics.pdf](https://github.com/NorhanTarek1572/Word_Statistics-/blob/main/Word%20statistics.pdf)
+
+
 
 
  # Demo 
