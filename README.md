@@ -4,7 +4,14 @@
 
  # Demo 
  [https://drive.google.com/file/d/12XgNckAUb-ImO3NyalD4AJOGAMLCpsOl/view?usp=sharing](https://drive.google.com/file/d/12XgNckAUb-ImO3NyalD4AJOGAMLCpsOl/view?usp=sharing)
- 
+
+
+# 
+
+![Screenshot 2023-12-21 092726](https://github.com/NorhanTarek1572/Word_Statistics-/assets/107472972/bfa8ef78-c645-4448-b704-749889886911)
+![Screenshot 2023-12-21 092804](https://github.com/NorhanTarek1572/Word_Statistics-/assets/107472972/0367f7c2-6450-4fb2-9f77-78f42f8f17bb)
+![Screenshot 2023-12-21 092823](https://github.com/NorhanTarek1572/Word_Statistics-/assets/107472972/a2678ae7-cdc0-4fbc-95b0-c44a7ef1592c)
+
 #  Project Idea
 
 1. It is a java program using multithreads and synchronized manner that **reads all text files form a specific directory** and r**eturn word statistics (**number of words per file/directory and number of “is”, “are” and “you” ,longest and shortest word per directory and per file) 
